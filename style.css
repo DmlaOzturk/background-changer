@@ -1,0 +1,29 @@
+
+
+body{
+	display: flex;
+ 	flex-direction: column;
+ 	align-items: center;
+ 	text-transform: uppercase;
+ 	background-color: ghostwhite;
+}
+
+h1{
+	font-size: 21px;
+   	margin-top: 15%;
+}
+
+.colorType{
+	margin-top: 5%;
+	padding: 5px;
+	width: 130px;
+	height: 60px;
+}
+
+#bt{
+	margin-top: 3%;
+	font-size: 20px;
+	width: 100px;
+	height: 40px;
+}
+
